@@ -1,0 +1,16 @@
+.card-group-title {
+    font-family: var(--font-accent);
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 0.07em;
+    color: var(--accent);
+}
+
+.card-gpoup-image {
+    border-radius: 20px;
+    width: 268px;
+    height: 250px;
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 25px;
+}
+
